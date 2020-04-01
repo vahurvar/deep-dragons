@@ -1,0 +1,9 @@
+numpy
+requests
+pandas
+sklearn
+bs4
+keras
+tensorflow
+xlrd
+html5lib
